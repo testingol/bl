@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7882667056%2C%22first_name%22%3A%22Amrit%20Ethipoia%207%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=6603127129127676277&chat_type=sender&auth_date=1728325874&hash=3fa361c4ff1b13e9588b38fbe50b67afaefc2408a526871733b768310baa70b5
